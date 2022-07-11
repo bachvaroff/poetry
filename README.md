@@ -1,1 +1,3 @@
-# poetry
+- toaletna poezija s elementi na izvrashtenija
+- gavra s estradni i poljuticheski trupove
+- boj, ebane, kruv i strigane
