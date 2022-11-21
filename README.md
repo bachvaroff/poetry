@@ -1,3 +1,3 @@
-- toaletna poezija s elementi na izvrashtenija
-- gavra s estradni i poljuticheski trupove
-- boj, ebane, kruv i strigane
+- тоалетна поезия с елементи на извращения
+- гавра с естрадни и полютически трупове, живи, неживи, родни и международни
+- бой, ебанье, кръв и стриганье
